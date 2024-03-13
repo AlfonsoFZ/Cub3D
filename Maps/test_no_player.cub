@@ -1,0 +1,18 @@
+NO 				textures/Bricks/Brick 10 - 256x256.png
+SO 			 textures/Bricks/Brick 14.2 - 256x256.png
+	WE textures/Bricks/Brick 16 - 256x256.png
+EA textures/Bricks/Brick 14 - 256x256.png
+F       25,		155,120		
+
+C 135,224,254  
+
+
+                  
+  11111111   
+  10000001
+  10111101     
+  101  101
+  111  101
+       111 
+        
+
